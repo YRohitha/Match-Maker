@@ -5,4 +5,4 @@ In recent years, there has been a massive rise in the usage of dating apps to fi
 * We will analyze some data from an app that focuses on using multiple choice and short answers to match users.
 * We will also create a presentation about your findings from this dataset.
 
-#### Purpose of Project: Practice formulating questions and implementing machine learning techniques to answer those questions. However, the questions you ask and how you answer them are entirely up to you.
+#### Goals: Practice formulating questions and implementing machine learning techniques to answer those questions. 
